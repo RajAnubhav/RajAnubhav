@@ -27,3 +27,5 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAnubhav&show_icons=true&locale=en&layout=compact" alt="RajAnubhav" />
 </p>
+
+<strong>List of the projects</strong>
