@@ -13,7 +13,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **C++, Django, Flutter, Dart**
+- 🌱 I’m currently learning **C++, Django, Flutter, Dart, MERN Stack { React Js }**
 
 - 📫 How to reach me **anubhavraj742@gmail.com**
 
