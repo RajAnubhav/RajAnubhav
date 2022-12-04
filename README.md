@@ -14,13 +14,9 @@
 </p>
 
 - 📫 How to reach me **anubhavraj742@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/anubhav-raj-09161b205/" target="blank">
+- 🔗 Contact me via linkedIn -  <a href="https://www.linkedin.com/in/anubhav-raj-09161b205/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/arcadesArena/arcadesArena/main/icons/linked-in-alt.svg" alt="no logo" height="30" width="40" />
     </a>
-</p>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAnubhav&show_icons=true&locale=en&layout=compact" alt="RajAnubhav" />
