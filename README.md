@@ -13,8 +13,6 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **C++, Django, Flutter, Dart, MERN Stack { React Js }**
-
 - 📫 How to reach me **anubhavraj742@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
