@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anubhavraj742@gmail.com**
 - 🔗 Contact me via linkedIn -  <a href="https://www.linkedin.com/in/anubhav-raj-09161b205/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/arcadesArena/arcadesArena/main/icons/linked-in-alt.svg" alt="no logo" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/RajAnubhav/RajAnubhav/main/icons/linked-in-alt.svg" alt="no logo" height="30" width="40" />
     </a>
 
 <p>
