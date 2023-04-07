@@ -1,6 +1,6 @@
 <!--       -->
 <h1 align="center">
-    Hi , I'm Anubhav Raj
+    Hi , I'm Anubhav
 </h1>
 
 <h3 align="center">
