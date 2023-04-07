@@ -9,7 +9,7 @@
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=RajAnubhav&column=100" alt="RajAnubhav" />
+        <img src="https://github-profile-trophy.vercel.app/?username=RajAnubhav&column=8" alt="RajAnubhav" />
     </a>
 </p>
 <p>
