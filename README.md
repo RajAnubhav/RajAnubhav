@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    A web and app developer.
+    Portfolio : <a href="https://anubhavraj.vercel.app"> https://anubhavraj.vercel.app</a>
 </h3>
 
 <p align="left"> 
@@ -16,4 +16,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAnubhav&show_icons=true&locale=en&layout=compact" alt="RajAnubhav" />
 </p>
 
-<strong>List of the projects</strong>
+<strong>Below is the list of my projects</strong>
